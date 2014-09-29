@@ -1,0 +1,18 @@
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\bin\Debug\talking 2.exe.config
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\bin\Debug\talking 2.exe
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\bin\Debug\talking 2.pdb
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\obj\Debug\talking 2.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\obj\Debug\talking 2.exe
+C:\Users\Tim\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\obj\Debug\talking 2.pdb
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\bin\Debug\talking 2.exe.config
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\obj\Debug\talking 2.exe
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 6\talking 2\talking 2\obj\Debug\talking 2.pdb
+F:\Science Fair 2014\Programming\Version 7\Talking\talking 2\bin\Debug\talking 2.exe.config
+F:\Science Fair 2014\Programming\Version 7\Talking\talking 2\obj\Debug\talking 2.exe
+F:\Science Fair 2014\Programming\Version 7\Talking\talking 2\obj\Debug\talking 2.pdb
+C:\Users\Tim\Desktop\Science Fair 2014\Version 7\Talking\talking 2\bin\Debug\talking 2.exe.config
+C:\Users\Tim\Desktop\Science Fair 2014\Version 7\Talking\talking 2\obj\Debug\talking 2.exe
+C:\Users\Tim\Desktop\Science Fair 2014\Version 7\Talking\talking 2\obj\Debug\talking 2.pdb
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 7\Talking\talking 2\bin\Debug\talking 2.exe.config
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 7\Talking\talking 2\obj\Debug\talking 2.exe
+C:\Users\Adjuster\Desktop\Science Fair 2014\Version 7\Talking\talking 2\obj\Debug\talking 2.pdb

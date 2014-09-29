@@ -1,0 +1,67 @@
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Adjuster\Documents\Visual Studio 2010\c# projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\ResolveAssemblyReference.cache
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\MainWindow.baml
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\App.g.cs
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\GenerateResource.read.1.tlog
+F:\Science Fair 2013\DepthBasics-WPF\obj\Debug\GenerateResource.write.1.tlog
+F:\Science Fair 2013\DepthBasics1\obj\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\DepthBasics1\obj\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\DepthBasics1\bin\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\DepthBasics1\bin\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\DepthBasics1\obj\Debug\ResolveAssemblyReference.cache
+F:\Science Fair 2013\DepthBasics1\obj\Debug\MainWindow.baml
+F:\Science Fair 2013\DepthBasics1\obj\Debug\MainWindow.g.cs
+F:\Science Fair 2013\DepthBasics1\obj\Debug\App.g.cs
+F:\Science Fair 2013\DepthBasics1\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+F:\Science Fair 2013\DepthBasics1\obj\Debug\DepthBasics-WPF.g.resources
+F:\Science Fair 2013\DepthBasics1\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+F:\Science Fair 2013\DepthBasics1\obj\Debug\GenerateResource.read.1.tlog
+F:\Science Fair 2013\DepthBasics1\obj\Debug\GenerateResource.write.1.tlog
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\C# Programs\DepthBasics1\bin\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2013\C# Programs\DepthBasics1\bin\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\ResolveAssemblyReference.cache
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\MainWindow.baml
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\MainWindow.g.cs
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\App.g.cs
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\DepthBasics-WPF.g.resources
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\GenerateResource.read.1.tlog
+F:\Science Fair 2013\C# Programs\DepthBasics1\obj\Debug\GenerateResource.write.1.tlog
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2014\Version 4\DepthBasics1\bin\Debug\DepthBasics-WPF.exe
+F:\Science Fair 2014\Version 4\DepthBasics1\bin\Debug\DepthBasics-WPF.pdb
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\ResolveAssemblyReference.cache
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\MainWindow.baml
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\MainWindow.g.cs
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\App.g.cs
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\DepthBasics-WPF.g.resources
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\GenerateResource.read.1.tlog
+F:\Science Fair 2014\Version 4\DepthBasics1\obj\Debug\GenerateResource.write.1.tlog
+F:\Science Fair 2014\Version 4\DepthBasics1\bin\Debug\DisplaytoVestProgram.exe
+F:\Science Fair 2014\Version 4\DepthBasics1\bin\Debug\DisplaytoVestProgram.pdb
